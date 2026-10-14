@@ -1,0 +1,15 @@
+{
+  "schema_version": 3,
+  "site_id": "sit_01kx2vvh2sesqap1c2h08f6syv",
+  "site_host": "actx.cc",
+  "created_at": 1791967696,
+  "managed_globs": [
+    "content/**",
+    "data/jant.toml",
+    "themes/jant/**",
+    "hugo.toml",
+    ".gitignore",
+    "README.md",
+    ".jant-sync"
+  ]
+}
