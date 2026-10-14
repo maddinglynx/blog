@@ -1,0 +1,154 @@
+format = "jant-site"
+version = 1
+generated_at = "2026-10-14T08:48:15.000Z"
+site_name = "行思录·MaddingLynx"
+site_description = "行思录·MaddingLynx 的个人博客：记录思考、学习与生活。"
+site_language = "zh-Hans"
+main_rss_feed = "featured"
+show_jant_branding_on_home = false
+show_header_avatar = true
+noindex = false
+site_avatar_mode = "custom"
+favicon_mode = "custom"
+apple_touch_mode = "custom"
+theme_id = "tufte"
+default_theme_id = "tufte"
+font_theme_id = "classic"
+theme_mode = "auto"
+page_size = 50
+archive_page_size = 50
+rss_feed_limit = 50
+favicon_path = "/favicon.ico"
+apple_touch_icon_path = "/apple-touch-icon.png"
+site_avatar_url = "/media/sit_01kx2vvh2sesqap1c2h08f6syv/assets/avatar/med_01kx4wbdt1e8gs2stjgebr48jm.png"
+favicon_version = "202607100205"
+
+[[nav]]
+type = "system"
+label = "Featured"
+url = "/featured/"
+system_key = "featured"
+placement = "header"
+
+[[nav]]
+type = "collection"
+label = "Now"
+url = "/now"
+system_key = ""
+placement = "header"
+
+[[nav]]
+type = "system"
+label = "Archive"
+url = "/archive/"
+system_key = "archive"
+placement = "header"
+
+[[nav]]
+type = "system"
+label = "Collections"
+url = "/collections/"
+system_key = "collections"
+placement = "more"
+
+[[nav]]
+type = "collection"
+label = "About"
+url = "/about"
+system_key = ""
+placement = "more"
+
+[[nav]]
+type = "collection"
+label = "Pinned"
+url = "/pinned"
+system_key = ""
+placement = "more"
+
+[[nav]]
+type = "system"
+label = "RSS"
+url = "/featured/index.xml"
+system_key = "rss"
+placement = "more"
+
+[[directory]]
+type = "divider"
+label = "0 Evergreen note"
+
+[[directory]]
+type = "collection"
+sequence = "00"
+slug = "now"
+title = "Now"
+entry_count = 26
+recent_activity_label = "4d ago"
+recent_activity_iso = "2026-10-10T03:43:11.000Z"
+
+[[directory]]
+type = "collection"
+sequence = "01"
+slug = "pinned"
+title = "Pinned"
+description_html = "<p>🔝一些置顶内容</p>"
+entry_count = 1
+recent_activity_label = "Sep 3"
+recent_activity_iso = "2026-09-03T04:05:29.000Z"
+
+[[directory]]
+type = "collection"
+sequence = "02"
+slug = "learn-autocad"
+title = "Learn Autocad"
+entry_count = 2
+recent_activity_label = "Aug 12"
+recent_activity_iso = "2026-08-12T03:44:28.000Z"
+
+[[directory]]
+type = "collection"
+sequence = "03"
+slug = "mei-hua-yi-shu"
+title = "♣️ 梅花易数"
+entry_count = 12
+recent_activity_label = "1d ago"
+recent_activity_iso = "2026-10-13T02:24:28.000Z"
+
+[[directory]]
+type = "divider"
+label = "1"
+
+[[directory]]
+type = "collection"
+sequence = "10"
+slug = "about"
+title = "About"
+entry_count = 0
+recent_activity_label = "Jul 10"
+recent_activity_iso = "2026-07-10T03:14:11.000Z"
+
+[[directory]]
+type = "collection"
+sequence = "11"
+slug = "essays"
+title = "Essays"
+entry_count = 0
+recent_activity_label = "Aug 3"
+recent_activity_iso = "2026-08-03T08:20:44.000Z"
+
+[[directory]]
+type = "collection"
+sequence = "12"
+slug = "concepts"
+title = "Concepts"
+entry_count = 0
+recent_activity_label = "Aug 3"
+recent_activity_iso = "2026-08-03T08:20:44.000Z"
+
+[[directory]]
+type = "collection"
+sequence = "13"
+slug = "indie-business"
+title = "Indie Business"
+entry_count = 0
+recent_activity_label = "Aug 3"
+recent_activity_iso = "2026-08-03T08:20:44.000Z"
