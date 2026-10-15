@@ -3,6 +3,8 @@ id: "pst_01m4xc7gejfet89e24aama1j4t"
 date: "2026-10-14T14:14:30.000Z"
 slug: "ovnv0"
 type: "post"
+aliases:
+  - "/ycqfi/"
 format: "note"
 status: "published"
 visibility: "latest_hidden"
@@ -13,6 +15,7 @@ collections:
     collected_at: "2026-10-14T14:14:30.000Z"
     position: 0
     pinned_at: null
+last_activity_at: "2026-10-15T01:15:26.000Z"
 ---
 
 屋漏偏逢连夜雨，麻绳专挑细处断。
