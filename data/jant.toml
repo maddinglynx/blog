@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-10-19T09:39:48.000Z"
+generated_at = "2026-10-20T07:15:45.000Z"
 site_name = "行思录·MaddingLynx"
 site_description = "行思录·MaddingLynx 的个人博客：记录思考、学习与生活。"
 site_language = "zh-Hans"
@@ -81,9 +81,9 @@ type = "collection"
 sequence = "00"
 slug = "now"
 title = "Now"
-entry_count = 30
+entry_count = 31
 recent_activity_label = "1m ago"
-recent_activity_iso = "2026-10-19T09:39:48.000Z"
+recent_activity_iso = "2026-10-20T07:15:45.000Z"
 
 [[directory]]
 type = "collection"
@@ -110,7 +110,7 @@ sequence = "03"
 slug = "mei-hua-yi-shu"
 title = "♣️ 梅花易数"
 entry_count = 12
-recent_activity_label = "6d ago"
+recent_activity_label = "7d ago"
 recent_activity_iso = "2026-10-13T02:24:28.000Z"
 
 [[directory]]
